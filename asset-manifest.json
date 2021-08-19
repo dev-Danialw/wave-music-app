@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wave-music-app/static/css/main.f291b068.chunk.css",
+    "main.js": "/wave-music-app/static/js/main.80685e8d.chunk.js",
+    "main.js.map": "/wave-music-app/static/js/main.80685e8d.chunk.js.map",
+    "runtime-main.js": "/wave-music-app/static/js/runtime-main.e23622f5.js",
+    "runtime-main.js.map": "/wave-music-app/static/js/runtime-main.e23622f5.js.map",
+    "static/js/2.026ad7a1.chunk.js": "/wave-music-app/static/js/2.026ad7a1.chunk.js",
+    "static/js/2.026ad7a1.chunk.js.map": "/wave-music-app/static/js/2.026ad7a1.chunk.js.map",
+    "static/js/3.c172d08d.chunk.js": "/wave-music-app/static/js/3.c172d08d.chunk.js",
+    "static/js/3.c172d08d.chunk.js.map": "/wave-music-app/static/js/3.c172d08d.chunk.js.map",
+    "index.html": "/wave-music-app/index.html",
+    "static/css/main.f291b068.chunk.css.map": "/wave-music-app/static/css/main.f291b068.chunk.css.map",
+    "static/js/2.026ad7a1.chunk.js.LICENSE.txt": "/wave-music-app/static/js/2.026ad7a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e23622f5.js",
+    "static/js/2.026ad7a1.chunk.js",
+    "static/css/main.f291b068.chunk.css",
+    "static/js/main.80685e8d.chunk.js"
+  ]
+}
